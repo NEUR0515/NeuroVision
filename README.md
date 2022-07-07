@@ -30,7 +30,7 @@ Media server setup based on Docker and Plex.
 
 Clone this repo into your home directory:
 
-    git clone $GITHUB_REPO
+    git clone https://github.com/NEUR0515/NeuroVision.git
 
 ## Constants
 
